@@ -24,11 +24,11 @@ Estoy desarrollando mi marca personal como **@davidzomada** con el proposito de 
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/david-zomada/)
+<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
 
-[![website](./img/xamarin.svg)]
-[![website](./img/c--4.svg)]
-[![website](./img/azure.svg)]
+<img align="left" alt="Azure" width="26px" src="./img/azure.svg" style="padding-right:10px;" />
+<img align="left" alt="Xamarin" width="26px" src="./img/xamarin.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="./img/c--4.svg" style="padding-right:10px;" />
 
 
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/david-zomada/)
