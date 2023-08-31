@@ -1,6 +1,6 @@
 # Hi there, I'm David Zomada 👋🏼
 
-- 📱 Software developer full stack (iOS/Android)
+- 📱 iOS & Swift App Developer
 - ⭐️ 📓 📚 📖 🌐 
 
 Mi proyecto 🌍
