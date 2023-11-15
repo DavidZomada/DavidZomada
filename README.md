@@ -1,11 +1,71 @@
 # Hi there, I'm David Zomada 👋🏼
 
-- 📱 iOS & Swift App Developer
-- ⭐️ 📓 📚 📖 🌐 
+📱 iOS & Swift App Developer
+•Swift, SwiftUI
+•Xcode 15, iOS 17, iPadOS 17, watchOS 10, and macOS Sonoma
 
-Mi proyecto 🌍
-------------
-Estoy desarrollando mi marca personal como **@davidzomada** con el proposito de crear una comunidad de personas que, al igual que yo, deseen viajar como estilo de vida siendo nómadas digitales, para que juntos podamos superar las barreras laborales, sociales y personales que les impider salir a descubrir este planeta tan curioso y amobroso en el que vivimos. 
+Data Base
+• SQL
+• SwiftData
+
+APIs y Comunicación
+• REST API
+• Postman
+• WireShark
+
+Adobe Creative Could
+• (UI/UX) XD
+• Photoshop
+• Premiere
+• After Effects
+
+Development Methodologies
+• Agile
+• Scrum
+• Kanban
+• DevOps
+
+Designs Patterns
+• MVVM
+• MVC
+• MVP
+• VIPER
+• Coordinator Pattern
+
+Principles
+• SOLID
+• Clean Code
+
+Version Control
+• Git
+• GitHub
+• Sourcetree
+
+Could Services
+• CloudKit
+• Firebase
+• Azure
+
+SDK
+• MapKit
+• TipKit
+• StoreKit
+• ActivityKit
+• AVKit
+• HealthKit
+• WidgetKit
+• Mapbox
+
+IA
+• ChatGPT
+• Midjourney
+• Firefly
+• Botpress
+
+3D Modeling
+• Blender
+• Spline
+
 
 ### Connect with me:
 
