@@ -1,103 +1,32 @@
-# Hi there, I'm David Zomada 👋🏼
+# Hi, I'm David 👋
 
-📱 iOS & Swift App Developer
-•Swift, SwiftUI
-•Xcode 15, iOS 17, iPadOS 17, watchOS 10, and macOS Sonoma
+**Indie iOS developer from Madrid.** I build small, native apps with Swift and SwiftUI —
+and ship them myself, from the first sketch to the App Store.
 
-Data Base
-• SQL
-• SwiftData
+## 🧭 Currently shipping
 
-APIs y Comunicación
-• REST API
-• Postman
-• WireShark
+**[Somada](https://apps.apple.com/app/id6740721557)** — a travel journal on a map.
+Routes, journal pages with photos, pins, collectibles and an AI assistant.
+iPhone, iPad and Mac · ⭐ 5.0 on the App Store.
 
-Adobe Creative Could
-• (UI/UX) XD
-• Photoshop
-• Premiere
-• After Effects
+> 🚐 Next up: hitchhiking from Ribadesella to Amsterdam, documenting the whole trip live with Somada.
 
-Development Methodologies
-• Agile
-• Scrum
-• Kanban
-• DevOps
+## 🛠 What I work with
 
-Designs Patterns
-• MVVM
-• MVC
-• MVP
-• VIPER
-• Coordinator Pattern
+**Language & UI** · Swift 6 · SwiftUI · Liquid Glass · Observation
+**Apple frameworks** · SwiftData · CloudKit · MapKit · WidgetKit · ActivityKit (Live Activities) ·
+App Intents · StoreKit 2 · HealthKit · TipKit · AVKit · Foundation Models (on-device AI)
+**Backend & services** · REST APIs · Firebase · Azure · RevenueCat
+**Architecture** · MVVM · Coordinator · Clean Architecture · SOLID · protocol-based DI
+**Tooling** · Xcode 26 · XcodeGen · Swift Testing · Git · TestFlight · Claude Code
+**Design** · Figma · Photoshop · Premiere · After Effects
 
-Principles
-• SOLID
-• Clean Code
+## 💡 How I build
 
-Version Control
-• Git
-• GitHub
-• Sourcetree
+- **Native first.** If it can be done with an Apple framework, it is.
+- **Small scope, shipped.** An MVP should fit in three weeks.
+- **Low maintenance.** Few servers, few dependencies, privacy by default.
 
-Could Services
-• CloudKit
-• Firebase
-• Azure
+## 📫 Find me
 
-SDK
-• MapKit
-• TipKit
-• StoreKit
-• ActivityKit
-• AVKit
-• HealthKit
-• WidgetKit
-• Mapbox
-
-IA
-• ChatGPT
-• Midjourney
-• Firefly
-• Botpress
-
-3D Modeling
-• Blender
-• Spline
-
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://flowcv.me/davidzomada#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://flowcv.me/davidzomada#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCSjFJgmtfoh3PYgE-SIbwzA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCSjFJgmtfoh3PYgE-SIbwzA#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/david-zomada/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/david-zomada/#gh-dark-mode-only)
-
-[website]: flowcv.me/davidzomada
-[youtube]: https://www.youtube.com/channel/UCSjFJgmtfoh3PYgE-SIbwzA
-[linkedin]: https://www.linkedin.com/in/david-zomada/
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio" width="26px" src="./img/visualstudio.svg" style="padding-right:10px;"/>
-<img align="left" alt="Azure" width="26px" src="./img/azure.svg" style="padding-right:10px;" />
-<img align="left" alt="Xamarin" width="26px" src="./img/xamarin.svg" style="padding-right:10px;" />
-<img align="left" alt="C#" width="26px" src="./img/c-sharp.svg" style="padding-right:10px;" />
-
-
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/david-zomada/)
-
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.linkedin.com/in/david-zomada/#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.linkedin.com/in/david-zomada/#gh-light-mode-only)
-
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.linkedin.com/in/david-zomada/#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.linkedin.com/in/david-zomada/#gh-dark-mode-only)
-
-
-
-
+[Portfolio](https://davidzomada.github.io) · [App Store](https://apps.apple.com/app/id6740721557)
